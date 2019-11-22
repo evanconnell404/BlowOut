@@ -1,0 +1,87 @@
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\ApplicationInsights.config
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\BlowOut.dll.config
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\BlowOut.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\BlowOut.pdb
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Antlr3.Runtime.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.AI.Web.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Newtonsoft.Json.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.Helpers.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.Mvc.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.Optimization.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.Razor.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\WebGrease.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.Helpers.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.Mvc.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.Optimization.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.Razor.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Antlr3.Runtime.pdb
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Newtonsoft.Json.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\Microsoft.AI.Web.xml
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\obj\Debug\BlowOut.csprojResolveAssemblyReference.cache
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\obj\Debug\BlowOut.csproj.CoreCompileInputs.cache
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\obj\Debug\BlowOut.dll
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\obj\Debug\BlowOut.pdb
+C:\Users\ecthe\source\repos\BlowOut\BlowOut\bin\VortexSoft.Bootstrap.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\ApplicationInsights.config
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\BlowOut.dll.config
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\BlowOut.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\BlowOut.pdb
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Antlr3.Runtime.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.AI.Web.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Newtonsoft.Json.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.Helpers.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.Mvc.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.Optimization.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.Razor.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.WebPages.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\VortexSoft.Bootstrap.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\WebGrease.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.Helpers.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.Mvc.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.Optimization.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.Razor.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.WebPages.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Antlr3.Runtime.pdb
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Newtonsoft.Json.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\bin\Microsoft.AI.Web.xml
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\obj\Debug\BlowOut.csprojAssemblyReference.cache
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\obj\Debug\BlowOut.csproj.CoreCompileInputs.cache
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\obj\Debug\BlowOut.csproj.CopyComplete
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\obj\Debug\BlowOut.dll
+C:\Users\Carly Nield\source\repos\BlowOut-20191121T225350Z-001\BlowOut\BlowOut\obj\Debug\BlowOut.pdb

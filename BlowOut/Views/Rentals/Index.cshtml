@@ -1,0 +1,93 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+    .jumbotron {
+        background-image: url(../../Content/Images/Background.jpg);
+        opacity: .8;
+    }
+
+    div * {
+        font-family: "Montserrat", sans-serif;
+    }
+
+    h2 p {
+        opacity: 1.0;
+    }
+
+    body, h1, h2, h3, h4, h5, h6, .w3-wide {
+        font-family: "Montserrat", sans-serif;
+    }
+</style>
+
+
+<div class="jumbotron">
+    <h2 style="color:#fff;">Rentals</h2>
+</div>
+
+<body class="w3-content" style="max-width:1200px">
+
+    <div class="w3-container w3-text-grey" id="jeans">
+        <p>6 items</p>
+    </div>
+
+    <!-- Product grid -->
+    <div class="w3-row w3-grayscale" style="position: center;">
+        <div class="w3-col l3 s6">
+            <div class="w3-container">
+                <a href="@Url.Action("Index", "Clarinet")" class="clarinetImg">
+                    <img src="~/Content/Images/clarinet-vector-12.png" />
+                </a>
+                <p>Clarinet</p>
+            </div>
+            <div class="w3-container">
+                <a href="@Url.Action("Index", "Flute")" class="clarinetImg">
+                    <img src="~/Content/Images/flute.png" />
+                </a>
+                <p>Flute</p>
+            </div>
+        </div>
+
+        <div class="w3-col l3 s6">
+            <div class="w3-container">
+                <div class="w3-display-container">
+                    <a href="@Url.Action("Index", "Saxophone")" class="clarinetImg">
+                        <img src="~/Content/Images/saxophone.png" />
+                    </a>
+                </div>
+                <p>Saxophone</p>
+            </div>
+            <div class="w3-container">
+                <a href="@Url.Action("Index", "Trombone")" class="clarinetImg">
+                    <img src="~/Content/Images/trombone-vector-black-and-white-2.png" />
+                </a>
+                <p>Trombone</p>
+            </div>
+        </div>
+
+        <div class="w3-col l3 s6">
+            <div class="w3-container">
+                <a href="@Url.Action("Index", "Trumpet")" class="clarinetImg">
+                    <img src="~/Content/Images/trumpet-198-1175908.png" />
+                </a>
+                <p>Trumpet</p>
+            </div>
+            <div class="w3-container">
+                <div class="w3-display-container">
+                    <a href="@Url.Action("Index", "Tuba")" class="clarinetImg">
+                        <img src="~/Content/Images/tuba.png" />
+                    </a>
+                </div>
+                <p>Tuba</p>
+            </div>
+        </div>
+    </div>
+
+</body>

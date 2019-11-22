@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Blow Out!";
+}
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+
+<style>
+    .jumbotron {
+        background-image: url(../../Content/Images/InstrBgd1.jpg);
+        opacity: .8;
+        background-position-y: -550px;
+        background-position-x: right;
+    }
+    div * {
+        font-family: "Montserrat", sans-serif;
+    }
+    h2 p {
+        opacity: 1.0;
+    }
+    em * {
+        width: 50%;
+    }
+
+</style>
+
+<div class="jumbotron">
+    <h2 style="color:#fff;">Welcome to Blow Out!</h2>
+    <h4 class="lead" style="color:#fff;">A place where you can rent new and used instruments</h4>
+    <p class="lead" style="color:#A6A6A6; width: 50%;">
+        <em>
+            "It's easy to play any musical instrument: all you have to do is touch the right key at the right time and the instrument will play itself”.  - Johann Sebastian Bach
+        </em>
+    </p>
+</div>
+
+<div>
+    <h3>@Html.ActionLink("Rentals", "Index", "Rentals")</h3>
+    <br />
+    <h3>@Html.ActionLink("About", "Method", "Controller")</h3>
+    <br />
+    <h3>@Html.ActionLink("Contact", "Contact", "Home")</h3>
+</div>
